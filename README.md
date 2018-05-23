@@ -16,7 +16,7 @@ Acordei com uma dor de cabeça enorme e não estava mais na festa, um ser estran
 <p>&#45; É exatamente o que vou fazer.</p>
 
 <h2> Regras </h2> 
-	<p> Meu planeta tem quatro raças diferentes, Cyan, Florquids, ... , ..., cada uma delas tem sua própria forma de se conquistar  e eu vou te ensinar como funciona.</p>
+	<p> Meu planeta tem quatro raças diferentes, Cyan, Florquids, Splume e Acidus, cada uma delas tem sua própria forma de se conquistar  e eu vou te ensinar como funciona.</p>
 	<p> No momento sua timidez está em 100% e só vou permitir que você volte para a terra quando tiver pelo menos 25% de timidez.</p>
  	<p> Sua timidez diminui a cada vez que você passa de nível e para subir de nível você precisa ir em festas. Em cada festa você utiliza seus 4 atributos que são: charme, inteligência, emoção e fama para iniciar uma conversa com a fêmea.</p>
 	<p> Quando entrar numa conversa, fale sobre os assuntos que ela mais gosta, isso vai encher a barra de interesse dela, quando a barra encher até o máximo você conseguiu. </p>
