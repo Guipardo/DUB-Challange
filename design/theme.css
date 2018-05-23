@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+body
+{
+  background-color: rgb(34,34,34); /* Gray */
+  color:yellow;
+  font-family: 'arial',sans-serif;
+}
+
+/* ================================================================== BLOCKS */
+#container
+{
+  background-color: rgb(57,88,208); /* Blue */
+}
+
+#screen__menu
+{
+  background-image: url("../pictures/spaceship.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* ================================================================== ELEMENTS */
+.title
+{
+  font-family: 'Anton', sans-serif;
+  font-weight: bold;
+}
+
+.subtitle
+{
+  font-family: 'Oswald', sans-serif;
+}
+
+.text
+{
+  font-family: 'arial',sans-serif;
+}
+
+.simple-button
+{
+  background-color: rgb(57,88,208);
+  border-color: white;
+  color: yellow;
+}

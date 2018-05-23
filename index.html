@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> DUB Challenge </title>
+    <meta name="description" content="Jogo de paquera espacial">
+    <meta name="keywords" content="jogo,javascript,game,encontros,paquera,espacial">
+    <meta name="author" content="Guilherme Rodrigues Martins">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="design/reset.css">
+    <link rel="stylesheet" type="text/css" href="design/layout-sizes.css">
+    <link rel="stylesheet" type="text/css" href="design/theme.css">
+  </head>
+
+  <body onload="showScreen('screen__menu')">
+
+
+  <!-- CONTEINER PRINCIPAL -->
+  <section id="container">
+
+    <!-- MENU DO JOGO -->
+    <section class="screen" id="screen__menu">
+        <section class="content-block" id="menu-content">
+          <h1 class="title"> DUB Challenge </h1>
+          <button type="button" name="button" class="simple-button" onclick="changeScreen('screen__menu','screen__intro');"> <h2 class="subtitle"> Jogar </h2> </button>
+        </section>
+    </section>
+
+    <!-- INTRODUÇÃO -->
+    <section class="screen" id="screen__intro">
+      <section class="content-block">
+        <h2> Intro </h2>
+      </section>
+    </section>
+
+    <!-- MENU DE JOGO -->
+    <section class="screen" id="screen__game__menu">
+      <h1> Jogo</h1>
+    </section>
+
+    <!-- MENU DE LOJA -->
+    <section class="screen" id="screen__game__shop">
+
+    </section>
+
+    <!-- MENU DE TRABALHO -->
+    <section class="screen" id="screen__game__work">
+
+    </section>
+
+    <!-- MENU DE ENCONTRO -->
+    <section class="screen" id="screen__game__meet">
+
+    </section>
+
+    <!-- MENU DE RAÇAS -->
+    <section class="screen" id="screen__game__races">
+
+    </section>
+
+  </section>
+
+
+  <!-- SCRIPTS -->
+  <script src="scripts/game.js"></script>
+  </body>
+</html>
